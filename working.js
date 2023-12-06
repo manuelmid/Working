@@ -5,4 +5,4 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "ergo 3d animation");
+work(o, "elevate 3d animation");
