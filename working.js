@@ -5,4 +5,4 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "3d renders --csm");
+work(o, "cloud 3d --texturing");
