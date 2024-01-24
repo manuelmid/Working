@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(u, "Uni with D");
+work(o, "Cabinnet_Scenes --renders");
 
 //commants to edit with the terminal : 
 //vim --nameFile
