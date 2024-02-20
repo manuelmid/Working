@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "TA-000 Packaging");
+work(o, "Elevate/Classic packaging");
 
 //commants to edit with the terminal : 
 //vim --nameFile
