@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "Cloud --Scene_V3, adding details to the render");
+work(o, "Cloud --Scene_V3, more detailr");
 
 //commants to edit with the terminal : 
 //vim --nameFile
