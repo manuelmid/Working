@@ -8,6 +8,8 @@ function work(where, what){
 
 work(o, "Cloud --Scene_V3, more detailr");
 
+//To DO : cloud renders --finish --moreDetail
+
 //commants to edit with the terminal : 
 //vim --nameFile
 //press i
