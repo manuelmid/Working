@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "Showroom Design --Materials --Offerten control / HandsetModel");
+work(f, "Hundshop SVG --animation");
 
 //To DO : cloud renders --finish --moreDetail
 
