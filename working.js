@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "lampe --studio");
+work(o, "lampe --renders");
 
 //To DO : cloud renders --finish --moreDetail
 
