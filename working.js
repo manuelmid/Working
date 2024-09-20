@@ -4,9 +4,7 @@ let u = "Others";
 
 function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
-}
-
-work(o, "rise");
+so, "rise");
 
 //To DO : cloud renders --finish --moreDetail
 
