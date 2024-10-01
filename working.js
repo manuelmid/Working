@@ -4,11 +4,10 @@ let u = "Others";
 z col
 
 function work(where, what){
-    snew Date() + "Hoy trabaje con: " + where + "en " + what);
-so, "rise -renders");
+    alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
+so, "rise_scene_v2");
 
 //To DO : cloud renders --finish --moreDetail
-<F12>Úss
 //commants to edit with the terminal : 
 //vim --nameFile
 //press i
