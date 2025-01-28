@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "rise --fixing white color");
+work(o, "rise --fixing white colors");
 
 //To DO : cloud renders --finish --moreDetail
 //commants to edit with the terminal : 
