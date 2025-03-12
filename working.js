@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "desk lamp(fixing the mesh)");
+work(o, "rise borders / desk lamp");
 
 //To DO : cloud renders --finish --moreDetail
 //commants to edit with the terminal : 
