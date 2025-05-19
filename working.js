@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "export models to raw");
+work(o, "export models to raw 19.05");
 
 //To DO : cloud renders --finish --moreDetail
 //commants to edit with the terminal : 
