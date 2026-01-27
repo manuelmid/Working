@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "casa St giovani, cocinar comida congelada, tocar acordeon");
+work(o, "casa St giovani, limpiar protectores de ventanas, lijar, limpiar, y aceitar pasadores ventanas");
 
 //commants to edit with the terminal : 
 //vim --nameFile
