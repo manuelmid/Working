@@ -6,7 +6,7 @@ function work(where, what){
     alert(new Date() + "Hoy trabaje con: " + where + "en " + what);
 }
 
-work(o, "Focus media");
+work(o, "Focus mediiia");
 
 //commants to edit with the terminal : 
 //vim --nameFile
